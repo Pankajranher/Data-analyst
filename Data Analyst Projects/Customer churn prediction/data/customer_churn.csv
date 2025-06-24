@@ -1,0 +1,5 @@
+Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Churn
+Male,42,5,60000,2,1,1,50000,0
+Female,35,3,70000,1,1,0,60000,1
+Male,40,6,80000,2,0,1,70000,0
+Female,29,2,20000,1,1,1,30000,1
